@@ -1,0 +1,19 @@
+2022-01-29 21:25:34,323 [INFO] Activator:178 - 
+
+
+2022-01-29 21:25:34,325 [INFO] Activator:179 - !SESSION log4j initialized
+2022-01-29 21:26:15,359 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.16.2
+2022-01-29 21:26:15,359 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.16.1
+2022-01-29 21:26:15,359 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.16.0
+2022-01-29 21:26:31,434 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2022-01-29 21:26:33,923 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2022-01-29 21:26:33,999 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2022-01-29 21:26:34,003 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2022-01-29 21:26:34,004 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2022-01-29 21:26:43,579 [ERROR] root:96 - SUCCESS
+2022-01-29 21:27:39,641 [INFO] Activator:178 - 
+
+
+2022-01-29 21:27:39,643 [INFO] Activator:179 - !SESSION log4j initialized
+2022-01-29 21:28:13,389 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://sw-center.st.com:80: Socket Closed
+2022-01-29 21:28:13,389 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
