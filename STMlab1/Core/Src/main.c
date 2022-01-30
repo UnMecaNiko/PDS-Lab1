@@ -117,10 +117,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-
-
-
-
+	  pulse=HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_0);
 
 
     /* USER CODE END WHILE */
