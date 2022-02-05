@@ -4,6 +4,8 @@ Primer laboratorio de señales
 
 En grupos de máximo 3 personas, realice las siguientes actividades:
 
+-Ahora habilitado para trabajar de forma remota y conjunta
+
 ● Usando el generador de ondas disponible en el laboratorio, proceda a
 obtener señales sinusoidales. Verifique que conoce y maneja el equipo
 mencionado de forma que pueda configurar los diferentes parámetros
