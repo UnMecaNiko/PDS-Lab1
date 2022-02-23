@@ -1,5 +1,6 @@
 # PDS-Lab1
-Primer laboratorio de señales
+Proyecto de comunicación serial entre un microcontrolador que lee sensores
+análogos y GUI desarrollada en python para ver resultados en tiempo real.
 
 
 En grupos de máximo 3 personas, realice las siguientes actividades:
